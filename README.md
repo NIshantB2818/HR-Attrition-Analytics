@@ -12,11 +12,13 @@ This project focuses on analysing employee attrition data to identify workforce 
 - Present clear and actionable workforce analytics
 
 
+
   Tools & Technologies
 - SQL –> Data cleaning, transformation, and querying
 - Power BI –> Dashboard design and KPI visualisation
 - Python (Basic) –> Data exploration and preprocessing
 - Excel / CSV –> Data validation and preparation
+
 
 
    Project Workflow
@@ -36,11 +38,13 @@ This project focuses on analysing employee attrition data to identify workforce 
    - Visual reports for HR decision-making
 
 
+
   Key Insights
 - Certain departments showed higher attrition levels
 - Salary ranges influenced employee retention
 - Early-career employees had higher turnover patterns
 - Workforce data revealed potential retention risks
+
 
 
 Business Value
